@@ -7,11 +7,22 @@ The Quanta Student Symposium is a meeting of six quantum-focused research groups
 The symposium will take place at Lister Hall on the University of Alberta campus
 
 # Schedule
+## Sunday
 <details>
 <summary>How do I dropdown?</summary>
 <br>
 This is how you dropdown.
 </details>
+
+<details>
+<summary># How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+
+## Monday
+
+## Tuesday
 
 # Posters
 
