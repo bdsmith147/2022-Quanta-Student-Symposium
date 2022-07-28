@@ -16,3 +16,5 @@ The symposium will take place at Lister Hall on the University of Alberta campus
 ![Alberta Innovates](AI LOGO HORIZONTAL_COLOUR.jpg)
 ![Quanta](QUANTAlogo.png)
 ![FGSR](fgsr.png)
+![University of Alberta](University of Alberta.png)
+![University of Calgary](university-of-calgary-logo-png-transparent.png)
