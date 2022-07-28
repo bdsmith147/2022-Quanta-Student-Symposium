@@ -9,15 +9,15 @@ The symposium will take place at Lister Hall on the University of Alberta campus
 # Schedule
 ## Sunday
 <details>
-<summary>How do I dropdown?</summary>
+<summary>Event 1</summary>
 <br>
-This is how you dropdown.
+Abstract
 </details>
 
 <details>
-<summary># How do I dropdown?</summary>
+<summary>Event 2</summary>
 <br>
-This is how you dropdown.
+Abstract
 </details>
 
 ## Monday
