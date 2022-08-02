@@ -31,70 +31,236 @@ The scientific program will take place in the Maple Leaf Room at Lister Hall on 
 Wifi is accessible by...
 
 # Schedule
-<style>
-      .left {
-        margin-left: 100px;
-      }
-    </style>
 The syposium will take place over three days from August 7-9, 2022. A PDF of the schedule can be downloaded [here](media/schedule.pdf). All times are given in MDT.
 
 <details>
-<summary><h2>Sunday</h2></summary>
+<summary><h2>Day 1: Sunday, August 7th</h2></summary>
 <br>
-<ul> 
-<li> 12:00 - 16:00  |  Travel from Calgary to Edmonton & check in </li>
-<li> 17:00 - 20:00  |  Welcome Reception</li>
-</ul>
-
+<table>
+<thead>
+  <tr>
+    <th><img width=100/> </th>
+    <th>Description</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>12:00 - 16:00</td>
+    <td>Travel from Calgary to Edmonton & check in</td>
+  </tr>
+  <tr>
+    <td>17:00 - 20:00</td>
+    <td>Welcome Reception</td>
+  </tr>
+</tbody>
+</table>
 </details>
 
 <details>
-<summary><h2>Monday</h2></summary>
+<summary><h2>Day 2: Monday, August 8th</h2></summary>
 <br>
-<ul> 
-<li> 07:30 - 08:30  |  Breakfast </li>
-<li> 08:30 - 08:45  |  Welcoming/Administrative Remarks </li>
-<br>
-<li> 08:45 - 09:00  |  Remarks: <b>John Davis</b>, University of Alberta  </li>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;“<em>The Vision of Quanta</em>”
-<br>
-<li> 09:00 - 10:00  |  Invited Talk: <b>Shabir Barzanjeh</b> University of Calgary </li>
-<li> 10:00 - 10:20  |  Contributed Talk: <b>Natalia Carvalho</b></li>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;“<em>Low temperature optomechanics</em>” 
-<li> 10:20 - 10:40  |  Contributed Talk: <b>Clinton Potts</b> </li>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;“<em>Dynamical Backaction Magnomechanics</em>”
-<li> 10:40 - 11:00  |  Contributed Talk: <b>Prasoon Shandilya</b>, </li>
-“<em>Optomechanical spin-photon interface in diamond</em>”
-
-<br>
-<br>
-<li> 11:00 - 11:15  |  Coffee Break </li>
-<br>
-<li> 11:15 - 12:15  |  Invited Talk: <b>Hugh Ramp</b>, D-Wave Systems Inc. </li>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;“<em>An Introduction to the D-Wave Quantum Annealing Hardware</em>”
-<li> 12:15 - 12:35  |  Contributed Talk: <b>Marvin Hirschel</b></li>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;“<em>Superfluid Helium Gravitational wave/Dark Matter Detector</em>”
-<li> 12:35 - 12:55  |  Contributed Talk: <b>Pramodh Senarath Yapa</b> </li>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;“<em>Theory of a 2D Spatially-Modulated Phase in Superfluid Helium-3 under Confinement</em>”
-
-<details> <summary>12:55 - 13:15  |  Contributed Talk: <b>Rishabh</b> </summary>
-“<em>Quantum Neuroscience: Radical pair mechanism may explain hypomagnetic field effects on neurogenesis</em>”
+<table>
+<thead>
+  <tr>
+    <th><img width=100/> </th>
+    <th>Description</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>07:30 - 08:30</td>
+    <td>Breakfast</td>
+  </tr>
+  <tr>
+    <td>08:30 - 08:45</td>
+    <td>Welcoming/Administrative Remarks</td>
+  </tr>
+  <tr>
+    <td>08:45 - 09:00</td>
+    <td>Opening Remarks: <b>John Davis</b>, University of Alberta</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>09:00 - 10:00</td>
+    <td>Invited Talk: <b>Shabir Barzanjeh</b> University of Calgary, Institute for Quantum Science and Technology</td>
+  </tr>
+  <tr>
+    <td>10:00 - 10:20</td>
+    <td>Contributed Talk: <b>Natalia Carvalho</b><br> “<em>Low temperature optomechanics</em>”</td>
+  </tr>
+  <tr>
+    <td>10:20 - 10:40</td>
+    <td>Contributed Talk: <b>Clinton Potts</b> <br> “<em>Dynamical Backaction Magnomechanics</em>”</td>
+  </tr>
+  <tr>
+    <td>10:40 - 11:00</td>
+    <td>Contributed Talk: <b>Prasoon Shandilya</b> <br> “<em>Optomechanical spin-photon interface in diamond</em>”</td>
+  </tr
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>11:00 - 11:15</td>
+    <td>Coffee Break</td>
+  </tr
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>11:15 - 12:15</td>
+    <td>Invited Talk: <b>Hugh Ramp</b>, D-Wave Systems Inc. <br>“<em>An Introduction to the D-Wave Quantum Annealing Hardware</em>”</td>
+  </tr>
+  <tr>
+    <td>12:15 - 12:35</td>
+    <td>Contributed Talk: <b>Marvin Hirschel</b><br>“<em>Superfluid Helium Gravitational wave/Dark Matter Detector</em>”</td>
+  </tr>
+  <tr>
+    <td>12:35 - 12:55</td>
+    <td>Contributed Talk: <b>Pramodh Senarath Yapa</b> <br>“<em>Theory of a 2D Spatially-Modulated Phase in Superfluid Helium-3 under Confinement</em>”</td>
+  </tr>
+  <tr>
+    <td>12:55 - 13:15</td>
+    <td>Contributed Talk: <b>Rishabh</b><br>“<em>Quantum Neuroscience: Radical pair mechanism may explain hypomagnetic field effects on neurogenesis</em>”</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>13:15 - 13:20</td>
+    <td>Administrative Remarks</td>
+  </tr>
+  <tr>
+    <td>13:20 - 14:15</td>
+    <td>Lunch</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>14:15 - 16:30</td>
+    <td>Quantum Computing Challenges & Exploration</td>
+  </tr>
+  <tr>
+    <td>16:30 - 18:30</td>
+    <td>Poster Session</td>
+  </tr>
+  <tr>
+    <td>18:30 - 21:00</td>
+    <td> Networking BBQ & Group Picture <br> Hawrelak Park, 9330 Groat Rd NW, Edmonton, AB T6G 2A8 (Site #2) </td>
+  </tr>
+</tbody>
+</table>
 </details>
+
+These next two blocks need to be updated with the correct information. Ignore this for now.
+<details>
+<summary><h2>Day 3: Tuesday, August 9th</h2></summary>
 <br>
-<li> 13:15 - 13:20  |  Administrative Remarks </li>
-<li> 13:20 - 14:15  |  Lunch </li>
-<br>
-<li> 14:15 - 16:30  |  Quantum Computing Exploration Challenges </li>
-    
-L1-270 computer lab, Edmonton Clinic Health Academy (ECHA), 11405 87 Ave NW, Edmonton, AB T6G 1C9 </li>
-<br>
-<li> 16:30 - 18:30  |  Poster Session </li>
-<br>
-<li> 18:30 - 21:00  |  Networking BBQ & Group Picture at Hawrelak Park
-    
-Hawrelak Park, 9330 Groat Rd NW, Edmonton, AB T6G 2A8 (Site #2) </li>
-<br>
-</ul>
+<table>
+<thead>
+  <tr>
+    <th><img width=100/> </th>
+    <th>Description</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>07:30 - 08:30</td>
+    <td>Breakfast</td>
+  </tr>
+  <tr>
+    <td>08:30 - 08:45</td>
+    <td>Welcoming/Administrative Remarks</td>
+  </tr>
+  <tr>
+    <td>08:45 - 09:00</td>
+    <td>Opening Remarks: <b>John Davis</b>, University of Alberta</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>09:00 - 10:00</td>
+    <td>Invited Talk: <b>Shabir Barzanjeh</b> University of Calgary, Institute for Quantum Science and Technology</td>
+  </tr>
+  <tr>
+    <td>10:00 - 10:20</td>
+    <td>Contributed Talk: <b>Natalia Carvalho</b><br> “<em>Low temperature optomechanics</em>”</td>
+  </tr>
+  <tr>
+    <td>10:20 - 10:40</td>
+    <td>Contributed Talk: <b>Clinton Potts</b> <br> “<em>Dynamical Backaction Magnomechanics</em>”</td>
+  </tr>
+  <tr>
+    <td>10:40 - 11:00</td>
+    <td>Contributed Talk: <b>Prasoon Shandilya</b> <br> “<em>Optomechanical spin-photon interface in diamond</em>”</td>
+  </tr
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>11:00 - 11:15</td>
+    <td>Coffee Break</td>
+  </tr
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>11:15 - 12:15</td>
+    <td>Invited Talk: <b>Hugh Ramp</b>, D-Wave Systems Inc. <br>“<em>An Introduction to the D-Wave Quantum Annealing Hardware</em>”</td>
+  </tr>
+  <tr>
+    <td>12:15 - 12:35</td>
+    <td>Contributed Talk: <b>Marvin Hirschel</b><br>“<em>Superfluid Helium Gravitational wave/Dark Matter Detector</em>”</td>
+  </tr>
+  <tr>
+    <td>12:35 - 12:55</td>
+    <td>Contributed Talk: <b>Pramodh Senarath Yapa</b> <br>“<em>Theory of a 2D Spatially-Modulated Phase in Superfluid Helium-3 under Confinement</em>”</td>
+  </tr>
+  <tr>
+    <td>12:55 - 13:15</td>
+    <td>Contributed Talk: <b>Rishabh</b><br>“<em>Quantum Neuroscience: Radical pair mechanism may explain hypomagnetic field effects on neurogenesis</em>”</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>13:15 - 13:20</td>
+    <td>Administrative Remarks</td>
+  </tr>
+  <tr>
+    <td>13:20 - 14:15</td>
+    <td>Lunch</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>14:15 - 16:30</td>
+    <td>Quantum Computing Challenges & Exploration</td>
+  </tr>
+  <tr>
+    <td>16:30 - 18:30</td>
+    <td>Poster Session</td>
+  </tr>
+  <tr>
+    <td>18:30 - 21:00</td>
+    <td> Networking BBQ & Group Picture <br> Hawrelak Park, 9330 Groat Rd NW, Edmonton, AB T6G 2A8 (Site #2) </td>
+  </tr>
+</tbody>
+</table>
 </details>
 
 <details>
