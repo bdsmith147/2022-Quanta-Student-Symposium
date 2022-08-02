@@ -94,7 +94,7 @@ Hawrelak Park, 9330 Groat Rd NW, Edmonton, AB T6G 2A8 (Site #2) </li>
 <li> 09:00 - 10:00  |  Invited Talk (Remote), <b>Rafal Janik</b>, Xanadu Quantum Technologies </li>
 <li> 10:00 - 10:20  |  Invited Talk, <b>Alexis Milinusic</b>, Government of Alberta, Director of Technology Relations</li>
 
-<p>&emsp;"<em>Alberta technology and innovation strategy (ATIS): strengthening Alberta’s technology and innovation sector<em>" </p>
+<p>&emsp;"<em>Alberta technology and innovation strategy (ATIS): strengthening Alberta’s technology and innovation sector</em>" </p>
 <li> 10:20 - 10:40  |  Contributed Talk, <b>Snehasis Addy</b>, “<em>Information reconciliation in quantum key distribution</em>” </li>
 <li> 10:40 - 11:00  |  Contributed Talk, <b>Logan Cooke</b>, “<em>Holonomic quantum computing in ultracold neutral atoms via Floquet engineering</em>” </li>
 <br>
