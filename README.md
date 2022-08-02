@@ -6,18 +6,31 @@
 </p>
 
 # About
-The Quanta Student Symposium is a meeting of six quantum-focused research groups at the Universities of Alberta and Calgary. This symposium provides training to our student members in emerging quantum technologies; promotes professional development; develops the network of quantum personnel within Alberta; and finally, provides networking and instructions from industry representatives of Canadian and Alberta quantum technology companies. With the training and experience gained in the Quanta program and symposium, we anticipate our members being leaders and key players in the future of Alberta’s quantum industry.
+The Quanta Student Symposium is a meeting of six quantum-focused research groups at the Universities of Alberta and Calgary. This symposium provides training to our student members in emerging quantum technologies; promotes professional development; develops the network of quantum personnel within Alberta; and finally, provides networking and instructions from industry representatives of Canadian and Alberta quantum technology companies. With the training and experience gained in the Quanta program and symposia, our members will become leaders and key players in the future of Alberta’s quantum industry.
 
 # Transportation
-For participants traveling from Calgary, a bus will be provided for the departing and returning trips. The bus will leave Calgary on Sunday August 7th at 1200 noon **sharp**.
+For participants traveling from Calgary, a bus will be provided for the departing and returning trips. The bus will depart from the [University of Calgary ICT Loop](https://goo.gl/maps/7PctRe4R8RuevnWR8) on Sunday August 7th at 1200 noon **sharp**.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1308.733693904922!2d-114.13165666472084!3d51.08087844861443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53716f0e97c2ebe5%3A0x63d5535efac0c0f2!2sICT%20Loop!5e0!3m2!1sen!2sca!4v1659464863167!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p align="center">
+<img src="Media/Calgary_pick-up.png" width="500"/>
+</p>
 
+The return trip will leave from Lister Centre on Tuesday August 9th at 18:30.
 
 # Venue
 The scientific program will take place in the Maple Leaf Room at Lister Hall on the University of Alberta campus.
 
-**Here is where we insert a campus map**
+<p align="center">
+<figure>
+   <img src="Media/maple-leaf-2.jpg" width="400"/>
+   <figcaption>
+   <br>
+   Lister Centre, Conference Services.
+   </figcaption>
+</figure>
+<p/>
+
+<b>Here is where we insert a campus map</b>
 
 Wifi is accessible by...
 
@@ -116,7 +129,9 @@ Hawrelak Park, 9330 Groat Rd NW, Edmonton, AB T6G 2A8 (Site #2) </li>
 </details>
 
 # Posters
+Registered participants are eligible to present a research poster at the two poster sessions Monday (16:30 - 18:30) and Tuesday (15:50 - 17:15) evenings. All submissions will be eligible for poster prizes.
 
+Participants may hang up their posters in the Lister Centre Aurora Room starting Monday morning at 7:00. Thumbtacks will be provided. Look for a list indicating your assigned poster board number.
 
 # Sponsors & Contributors
 <p align="center">
