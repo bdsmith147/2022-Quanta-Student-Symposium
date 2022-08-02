@@ -8,8 +8,18 @@
 # About
 The Quanta Student Symposium is a meeting of six quantum-focused research groups at the Universities of Alberta and Calgary. This symposium provides training to our student members in emerging quantum technologies; promotes professional development; develops the network of quantum personnel within Alberta; and finally, provides networking and instructions from industry representatives of Canadian and Alberta quantum technology companies. With the training and experience gained in the Quanta program and symposium, we anticipate our members being leaders and key players in the future of Alberta’s quantum industry.
 
-## Venue
+# Transportation
+For participants traveling from Calgary, a bus will be provided for the departing and returning trips. The bus will leave Calgary on Sunday August 7th at 1200 noon **sharp**.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1308.733693904922!2d-114.13165666472084!3d51.08087844861443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53716f0e97c2ebe5%3A0x63d5535efac0c0f2!2sICT%20Loop!5e0!3m2!1sen!2sca!4v1659464863167!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+# Venue
 The scientific program will take place in the Maple Leaf Room at Lister Hall on the University of Alberta campus.
+
+**Here is where we insert a campus map**
+
+Wifi is accessible by...
 
 # Schedule
 The syposium will take place over three days from August 7-9, 2022. A PDF of the schedule can be downloaded [here](media/schedule.pdf). All times are given in MDT.
@@ -49,12 +59,14 @@ The syposium will take place over three days from August 7-9, 2022. A PDF of the
 <li> 13:20 - 14:15  |  Lunch </li>
 <br>
 <li> 14:15 - 16:30  |  Quantum Computing Exploration Challenges </li>
-    L1-270 computer lab, Edmonton Clinic Health Academy (ECHA), 11405 87 Ave NW, Edmonton, AB T6G 1C9 </li>
+    
+L1-270 computer lab, Edmonton Clinic Health Academy (ECHA), 11405 87 Ave NW, Edmonton, AB T6G 1C9 </li>
 <br>
 <li> 16:30 - 18:30  |  Poster Session </li>
 <br>
 <li> 18:30 - 21:00  |  Networking BBQ & Group Picture at Hawrelak Park
-		   Hawrelak Park, 9330 Groat Rd NW, Edmonton, AB T6G 2A8 (Site #2) </li>
+    
+Hawrelak Park, 9330 Groat Rd NW, Edmonton, AB T6G 2A8 (Site #2) </li>
 <br>
 </ul>
 </details>
@@ -62,15 +74,63 @@ The syposium will take place over three days from August 7-9, 2022. A PDF of the
 <details>
 <summary><h2>Tuesday</h2></summary>
 <br>
-Abstract
+<ul>
+<li> 07:30 - 08:30  |  Breakfast </li>
+<li> 08:30 - 09:00  |  Administrative Remarks </li>
+<br>
+<li> 09:00 - 10:00  |  Invited Talk (Remote), <b>Rafal Janik</b>, Xanadu Quantum Technologies </li>
+<li> 10:00 - 10:20  |  Invited Talk, <b>Alexis Milinusic</b>, Government of Alberta, Director of Technology Relations</li>
+
+<p>&emsp;"<em>Alberta technology and innovation strategy (ATIS): strengthening Alberta’s technology and innovation sector<em>" </p>
+<li> 10:20 - 10:40  |  Contributed Talk, <b>Snehasis Addy</b>, “<em>Information reconciliation in quantum key distribution</em>” </li>
+<li> 10:40 - 11:00  |  Contributed Talk, <b>Logan Cooke</b>, “<em>Holonomic quantum computing in ultracold neutral atoms via Floquet engineering</em>” </li>
+<br>
+<li> 11:00 - 11:15  |  Coffee Break </li>
+<br>
+<li> 11:15 - 12:15  |  Invited Talk, <b>Daniel Higgenbottom</b>, Photonic, Inc. </li>
+<li> 12:15 - 12:35  |  Contributed Talk, <b>Leli Esmaeilifar</b>, “<em>Multipartite time-bin GHz-state generation in a photonic system</em>” </li>
+<li> 12:35 - 12:55  |  Contributed Talk, <b>Anindya Rastogi</b>, “<em>Superradiance effect for broadband light storage in cold atoms</em>” </li>
+<br>
+<li> 12:55 - 13:55  |  Lunch </li>
+<li> 13:55 - 14:00  |  Administrative Remarks </li>
+<br>
+<li> 14:00 - 14:20  |  Contributed Talk, <b>Sigurd Flagan</b>, “<em>A widely tunable platform for nonlinear optics</em>” </li>
+<li> 14:20 - 14:40  |  Contributed Talk, <b>Farhad Rasekh</b>, “<em>Erbium-doped silica fiber spectroscopy at low temperature</em>” </li>
+<br>
+<li> 14:40 - 15:40  |  Industry Panel Discussion, Chair: <b>John Davis</b>
+	<ul>
+	<li> <b>Hugh Ramp</b>, D-Wave Systems Inc.  </li>
+	<li> <b>Daniel Higgenbottom</b>, Photonic, Inc. </li>
+	<li> <b>Paul Kim</b>, Zero Point Cryogenics </li>
+	</ul>
+<br>
+<li> 15:40 - 15:50  |  Administrative Remarks </li>
+<br>
+<li> 15:50 - 17:15  |  Poster Session </li>
+<br>
+<li> 17:15 - 17:45  |  Administrative Remarks, Gifts, & Awards </li>
+<br>
+<li> 18:30 - 22:00  |  Return Travel to Calgary
+    Bus leaves at 18:30 </li>
+</ul>
 </details>
 
 # Posters
 
 
-# Sponsors
-![Alberta Innovates](Logos/AI LOGO HORIZONTAL_COLOUR.jpg)
-![Quanta](Logos/QUANTAlogo.png)
-![FGSR](Logos/fgsr.png)
-![University of Alberta](Logos/UofA.png)
-![University of Calgary](Logos/university-of-calgary-logo-png-transparent.png)
+# Sponsors & Contributors
+<p align="center">
+<img src="Logos/QUANTAlogo.png" alt="Quanta" width="400"/>
+
+<br>
+<br>
+
+<img src="Logos/AI LOGO HORIZONTAL_COLOUR.jpg" alt="Alberta Innovates" width="500"/>
+<br>
+<br>
+<img src="Logos/fgsr.png" alt="FGSR" width="200"/>
+<br>
+<br>
+<img src="Logos/NSERC_RGB.jpg" alt="NSERC" width="250"/>
+</p>
+
