@@ -21,13 +21,9 @@ The return trip will leave from Lister Centre on Tuesday August 9th at 18:30.
 The scientific program will take place in the Maple Leaf Room at Lister Hall on the University of Alberta campus.
 
 <p align="center">
-<figure>
    <img src="Media/maple-leaf-2.jpg" width="400"/>
-   <figcaption>
    <br>
    Lister Centre, Conference Services.
-   </figcaption>
-</figure>
 <p/>
 
 <b>Here is where we insert a campus map</b>
