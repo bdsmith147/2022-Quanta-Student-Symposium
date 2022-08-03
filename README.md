@@ -324,7 +324,7 @@ Transit passes will be provided for Calgary participants upon arrival at Lister 
 # Posters
 Registered participants are eligible to present a research poster at the two poster sessions Monday (16:30 - 18:30) and Tuesday (15:50 - 17:15) evenings. All submissions will be eligible for poster prizes.
 
-Participants may hang up their posters in the Lister Centre Aurora Room starting Monday morning at 7:00. :pushpin: Thumbtacks will be provided. Look for a list indicating your assigned poster board number.
+Participants may hang up their posters in the Lister Centre Aurora Room starting Monday morning at 7:00. Thumbtacks will be provided. :pushpin: Look for a list indicating your assigned poster board number.
 
 # Sponsors & Contributors
 <p align="center">
