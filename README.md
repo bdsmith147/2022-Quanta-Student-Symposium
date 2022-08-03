@@ -18,8 +18,9 @@ The scientific program will take place in the Maple Leaf Room at Lister Hall on 
     <td><img src="https://images.unsplash.com/photo-1600867010843-ef255269d43d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" width="400"/></td>
   </tr>
   <tr>
-    <td>Lister Centre, Conference Services.</td>
-    <td>Edmonton River Valley</td>
+    <td>
+	<p align="center">Lister Centre, Conference Services.</p></td>
+    <td><p align="center">Edmonton River Valley</p></td>
   </tr>
  </table>
 
@@ -50,7 +51,7 @@ The return trip will leave from Lister Centre on Tuesday August 9th at 18:30.
 The syposium will take place over three days from August 7-9, 2022. A PDF of the schedule can be downloaded [here](media/schedule.pdf). All times are given in MDT.
 
 <details>
-<summary><h2>Day 1: Sunday, August 7th</h2></summary>
+<summary><h2>Day 1: Sunday, Aug. 7th</h2></summary>
 <br>
 <table>
 <thead>
@@ -78,7 +79,7 @@ The syposium will take place over three days from August 7-9, 2022. A PDF of the
 </details>
 
 <details>
-<summary><h2>Day 2: Monday, August 8th</h2></summary>
+<summary><h2>Day 2: Monday, Aug. 8th</h2></summary>
 <br>
 <table>
 <thead>
@@ -186,7 +187,7 @@ The syposium will take place over three days from August 7-9, 2022. A PDF of the
 
 
 <details>
-<summary><h2>Day 3: Tuesday, August 9th</h2></summary>
+<summary><h2>Day 3: Tuesday, Aug. 9th</h2></summary>
 <br>
 <table>
 <thead>
@@ -323,7 +324,7 @@ Transit passes will be provided for Calgary participants upon arrival at Lister 
 # Posters
 Registered participants are eligible to present a research poster at the two poster sessions Monday (16:30 - 18:30) and Tuesday (15:50 - 17:15) evenings. All submissions will be eligible for poster prizes.
 
-Participants may hang up their posters in the Lister Centre Aurora Room starting Monday morning at 7:00. Thumbtacks will be provided. Look for a list indicating your assigned poster board number.
+Participants may hang up their posters in the Lister Centre Aurora Room starting Monday morning at 7:00. :pushpin: Thumbtacks will be provided. Look for a list indicating your assigned poster board number.
 
 # Sponsors & Contributors
 <p align="center">
