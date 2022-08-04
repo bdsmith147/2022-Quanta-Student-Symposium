@@ -72,7 +72,7 @@ The syposium will take place over three days from August 7-9, 2022. A PDF of the
   </tr>
   <tr>
     <td>17:00 - 20:00</td>
-    <td>:beers: Welcome Reception</td>
+    <td>:beers: Welcoming Reception (<a href="#welcoming-reception">Details below</a>) <br> <ul><li>MKT Fresh Food | Beer Market, <a href="https://www.google.com/maps/place/8101+Gateway+Blvd+NW,+Edmonton,+AB+T6E+3X8/@53.5169833,-113.4945116,17z/data=!3m1!4b1!4m5!3m4!1s0x53a0220f00fd4775:0xc83848078540686a!8m2!3d53.5169833!4d-113.4945116">8101 Gateway Blvd NW, Edmonton, AB T6E 3X8</a></li></ul></td>
   </tr>
 </tbody>
 </table>
@@ -91,7 +91,7 @@ The syposium will take place over three days from August 7-9, 2022. A PDF of the
 <tbody>
   <tr>
     <td>07:30 - 08:30</td>
-    <td>:banana: Breakfast</td>
+    <td>:banana: Breakfast <br> <ul><li>Lister Centre, Maple Leaf Room</li></ul></td>
   </tr>
   <tr>
     <td>08:30 - 08:45</td>
@@ -107,7 +107,7 @@ The syposium will take place over three days from August 7-9, 2022. A PDF of the
   </tr>
   <tr>
     <td>09:00 - 10:00</td>
-    <td>:red_circle: Invited Talk: <b>Shabir Barzanjeh</b> University of Calgary, Institute for Quantum Science and Technology <br>“<em></em>”</td>
+    <td>:red_circle: Invited Talk: <b>Shabir Barzanjeh</b> University of Calgary, Institute for Quantum Science and Technology</td>
   </tr>
   <tr>
     <td>10:00 - 10:20</td>
@@ -167,7 +167,7 @@ The syposium will take place over three days from August 7-9, 2022. A PDF of the
   </tr>
   <tr>
     <td>14:15 - 16:30</td>
-    <td>:computer: Quantum Computing Challenges & Exploration
+    <td>:computer: Quantum Computing Challenges & Exploration (<a href="#quantum-computing-challenges-and-exploration">Details below<a>)
 	<br>
 	<ul>
 	  <li>Edmonton Clinic Health Academy (ECHA), <a href="https://www.google.com/maps/dir/53.5225719,-113.5307178/53.5223385,-113.5265275/@53.5217565,-113.5298011,461m/data=!3m2!1e3!5s0x53a021f5aa466997:0xd87592711e9f08bc!4m9!4m8!1m5!3m4!1m2!1d-113.5299863!2d53.5223115!3s0x53a021f494ee05f5:0xa9750cb62b6c60e2!1m0!3e2">11405 87 Ave NW, Edmonton, AB T6G 1C9</a> (<b>L1-270 computer lab</b>)</li>
@@ -179,11 +179,15 @@ The syposium will take place over three days from August 7-9, 2022. A PDF of the
   </tr>
   <tr>
     <td>18:30 - 21:00</td>
-    <td> :hamburger: Networking BBQ & Group Picture <br> Hawrelak Park, <a href="https://www.google.com/maps/dir/53.5225719,-113.5307178/53.5244075,-113.5448453/@53.5245207,-113.541961,990m/data=!3m2!1e3!5s0x53a021f5aa466997:0xd87592711e9f08bc!4m2!4m1!3e2">9330 Groat Rd NW, Edmonton, AB T6G 2A8</a> (<b>Site #2</b>) </td>
+    <td> :hamburger: Networking BBQ & Group Picture <br> <ul><li>Hawrelak Park, <a href="https://www.google.com/maps/dir/53.5225719,-113.5307178/53.5244075,-113.5448453/@53.5245207,-113.541961,990m/data=!3m2!1e3!5s0x53a021f5aa466997:0xd87592711e9f08bc!4m2!4m1!3e2">9330 Groat Rd NW, Edmonton, AB T6G 2A8</a> (<b>Site #2</b>) </li></ul></td>
   </tr>
 </tbody>
 </table>
 </details>
+
+
+
+
 
 
 <details>
@@ -199,19 +203,23 @@ The syposium will take place over three days from August 7-9, 2022. A PDF of the
 <tbody>
   <tr>
     <td>07:30 - 08:30</td>
-    <td>:pineapple: Breakfast</td>
+    <td>:pineapple: Breakfast <br> <ul><li>Lister Centre, Maple Leaf Room</li></ul></td>
   </tr>
   <tr>
-    <td>08:30 - 09:00</td>
+    <td>08:30 - 09:40</td>
     <td>:microphone: Welcoming/Administrative Remarks</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
   </tr>
+    <tr>
+    <td>09:40 - 09:55</td>
+    <td>Invited Talk: <b>Crys Vanier</td>, Alberta Innovates
+  </tr>
   <tr>
     <td>09:00 - 10:00</td>
-    <td>:red_circle: Invited Talk: <b>Rafal Janik</b> Xanadu Quantum Technologies <br>“<em></em>”</td>
+    <td>:red_circle: Invited Talk: <b>Rafal Janik</b>, Xanadu Quantum Technologies</td>
   </tr>
   <tr>
     <td>10:00 - 10:20</td>
@@ -239,7 +247,7 @@ The syposium will take place over three days from August 7-9, 2022. A PDF of the
   </tr>
   <tr>
     <td>11:15 - 12:15</td>
-    <td>:red_circle: Invited Talk: <b>Daniel Higgenbottom</b>, Photonic Inc. <br>“<em></em>”</td>
+    <td>:red_circle: Invited Talk: <b>Daniel Higgenbottom</b>, Photonic Inc.</td>
   </tr>
   <tr>
     <td>12:15 - 12:35</td>
@@ -254,20 +262,16 @@ The syposium will take place over three days from August 7-9, 2022. A PDF of the
     <td></td>
   </tr>
   <tr>
-    <td>12:55 - 13:45</td>
+    <td>12:55 - 13:55</td>
     <td>:curry: Lunch</td>
   </tr>
   <tr>
-    <td>13:45 - 13:50</td>
+    <td>13:55 - 14:00</td>
     <td>:microphone: Administrative Remarks</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-  </tr>
-  <tr>
-    <td>13:50 - 14:00</td>
-    <td>Buffer</td>
   </tr>
   <tr>
     <td>14:00 - 14:20</td>
@@ -297,11 +301,11 @@ The syposium will take place over three days from August 7-9, 2022. A PDF of the
   </tr>
   <tr>
     <td>15:50 - 17:15</td>
-    <td>:pushpin: Poster Session <br> Lister Centre, Aurora Room</td>
+    <td>:pushpin: Poster Session <br> <ul><li>Lister Centre, Aurora Room</li></ul></td>
   </tr>
   <tr>
     <td>17:15 - 17:45</td>
-    <td>:microphone: Closing Remarks, Gifts, & Awards</td>
+    <td>:microphone: Closing Remarks, Gifts, & Awards <br> <ul><li>Lister Centre, Maple Leaf Room</li></ul></td>
   </tr>
   <tr>
     <td></td>
@@ -309,15 +313,18 @@ The syposium will take place over three days from August 7-9, 2022. A PDF of the
   </tr>
   <tr>
     <td>18:30 - 22:00</td>
-    <td>:minibus: Return travel to Calgary<br> Bus leaves at 18:30</td>
+    <td>:minibus: Return travel to Calgary<br> <ul><li>Bus leaves at</li></ul> 18:30</td>
   </tr>
 </tbody>
 </table>
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1LY9V-eQooYUNyvEFYMrGLgq93_-WMu4&ehbc=2E312F" width="640" height="480"></iframe>
 </details>
 
+
+
+
 # Welcoming Reception
-We invite you to join us for a welcoming reception on at [MKT Fresh Food](https://goo.gl/maps/5hNcNsv72MQT9pYHA) on Sunday, August 7th starting at 17:00. 
+We invite you to join us for a welcoming reception on at <a href="https://goo.gl/maps/5hNcNsv72MQT9pYHA">MKT Fresh Food</a> on Sunday, August 7th starting at 17:00. 
 
 Transit passes will be provided for Calgary participants upon arrival at Lister Centre. A guided transit group will leave Lister at 16:30 taking the :oncoming_bus: [`004` bus route](https://goo.gl/maps/irHVzsp5ajvnb1f38) to the reception venue.
 
@@ -326,17 +333,27 @@ Registered participants are eligible to present a research poster at the two pos
 
 Participants may hang up their posters in the Lister Centre Aurora Room starting Monday morning at 7:00. Thumbtacks will be provided. :pushpin: Look for a list indicating your assigned poster board number.
 
+# Quantum Computing Challenges and Exploration
+
+
 # Sponsors & Contributors
+We wish to express gratitude to our generous sponsors and contributors. Thank you!
+
 <p align="center">
-<img src="Logos/QUANTAlogo.png" alt="Quanta" width="400"/>
+<img src="Logos/QUANTAlogo.png" alt="Quanta" width="350"/>
 
 <br>
 <br>
-
+<br>
+<br>
 <img src="Logos/AI LOGO HORIZONTAL_COLOUR.jpg" alt="Alberta Innovates" width="500"/>
 <br>
 <br>
-<img src="Logos/fgsr.png" alt="FGSR" width="200"/>
+<br>
+<br>
+<img src="Logos/fgsr.png" alt="FGSR" width="300"/>
+<br>
+<br>
 <br>
 <br>
 <img src="Logos/NSERC_RGB.jpg" alt="NSERC" width="250"/>
