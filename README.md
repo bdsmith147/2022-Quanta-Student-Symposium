@@ -363,7 +363,7 @@ This event will occur in the Edmonton Clinic Health Academy (ECHA) building a sh
 ### :children_crossing: Directions to the computer lab:
 Please enter ECHA through one of the main north doors. Take the stairs or elevator to floor Lower Level 1 **in the basement**. :arrow_heading_down: In the main north-south running hallway, the wall colors run from red to blue, respectively. The computer lab is located about halfway down this hallway in the green section. :green_circle: Be alert for building room and Quanta signs. 
 
-![Here is a floor map](https://drive.google.com/file/d/1Ue836NAYcpQMcsH6iVaPASuLMy2lKh5S/view?usp=sharing), with the hallway and room indicated.
+[Here is a floor map](https://drive.google.com/file/d/1Ue836NAYcpQMcsH6iVaPASuLMy2lKh5S/view?usp=sharing), with the hallway and room indicated.
 
 :point_right: Note that portions of ECHA are currently under rennovation. :construction: Please stay clear of these areas.
 
