@@ -258,7 +258,7 @@ The syposium will take place over three days from August 7-9, 2022. A PDF of the
   </tr>
   <tr>
     <td>11:15 - 12:15</td>
-    <td>:red_circle: Invited Talk: <b>Daniel Higgenbottom</b>, Photonic Inc.</td>
+    <td>:red_circle: Invited Talk: <b>Daniel Higginbottom</b>, Photonic Inc.</td>
   </tr>
   <tr>
     <td>12:15 - 12:35</td>
@@ -297,7 +297,7 @@ The syposium will take place over three days from August 7-9, 2022. A PDF of the
     <td>:red_circle: Industry Panel Discussion, Chair: <b>John Davis</b> <br> Panelists:
     <ul>
       <li><b>Hugh Ramp</b>, D-Wave Systems Inc.</li>
-      <li><b>Daniel Higgenbottom</b>, Photonic Inc.</li>
+      <li><b>Daniel Higginbottom</b>, Photonic Inc.</li>
       <li><b>Paul Kim</b>, Zero Point Cryogenics</li>
     </ul>
     </td>
