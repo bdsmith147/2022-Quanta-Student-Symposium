@@ -19,7 +19,7 @@ The scientific program will take place in the Maple Leaf Room at Lister Centre o
 
 <table>
   <tr>
-    <td><img src="Media/maple-leaf-2.jpg" width="400"/></td>
+    <td><img src="Media/lister_centre.jpg" width="400"/></td>
     <td><img src="https://images.unsplash.com/photo-1600867010843-ef255269d43d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" width="400"/></td>
   </tr>
   <tr>
@@ -362,6 +362,8 @@ This event will occur in the Edmonton Clinic Health Academy (ECHA) building a sh
 
 ### :children_crossing: Directions to the computer lab:
 Please enter ECHA through one of the main north doors. Take the stairs or elevator to floor Lower Level 1 **in the basement**. :arrow_heading_down: In the main north-south running hallway, the wall colors run from red to blue, respectively. The computer lab is located about halfway down this hallway in the green section. :green_circle: Be alert for building room and Quanta signs. 
+
+[Here is a floor map](Media/ECHA_map.pdf), with the hallway and room indicated.
 
 :point_right: Note that portions of ECHA are currently under rennovation. :construction: Please stay clear of these areas.
 
