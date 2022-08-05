@@ -15,7 +15,7 @@ With the training and experience gained in the Quanta program and symposia, our 
 <br>
 
 # :hotel: Venue
-The scientific program will take place in the Maple Leaf Room at Lister Centre on the University of Alberta campus, just minutes from Edmonton's River Valley - the largest urban park in Canada.
+The scientific program will take place in the **Maple Leaf Room at Lister Centre** on the University of Alberta campus, just minutes from Edmonton's River Valley - the largest urban park in Canada.
 
 <table>
   <tr>
