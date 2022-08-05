@@ -328,7 +328,7 @@ The syposium will take place over three days from August 7-9, 2022. A PDF of the
   </tr>
 </tbody>
 </table>
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1LY9V-eQooYUNyvEFYMrGLgq93_-WMu4&ehbc=2E312F" width="640" height="480"></iframe>
+
 </details>
 
 <br> 
