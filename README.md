@@ -1,3 +1,7 @@
+<p align="center">
+:star:This site is updated frequently. Please check back often. :star:
+</p>
+<hr>
 
 # 2022 Quanta CREATE Student Symposium
 
@@ -30,7 +34,9 @@ The scientific program will take place in the **Maple Leaf Room at Lister Centre
  </table>
 
 ## :iphone: WiFi Connection
-Guest internet access is available either through the secure Eduroam service, or using the open Wi-Fi network “Guest@UofA”. Please note that the guest network requires a browser login and registration for internet access.
+At the registration desk, non-U of A participants will receive a temporary network ID to be used during the quantum computing workshop on Monday. These credentials also permit access to the main U of A secure network named `UWS`. 
+
+Guest internet access is additionally available either through the secure `Eduroam` service, or using the open Wi-Fi network `Guest@UofA`. Please note that the guest network requires a browser login and registration for internet access.
 
 The Eduroam service must be registered for in advance through your home academic institution:
 * [University of Calgary instructions](https://ucalgary.service-now.com/it?id=kb_article&sys_id=63817562138272008246f7b2e144b055)
@@ -145,20 +151,20 @@ The syposium will take place over three days from August 7-9, 2022. A PDF of the
     <td></td>
   </tr>
   <tr>
-    <td>11:15 - 12:15</td>
-    <td>:red_circle: Invited Talk: <b>Hugh Ramp</b>, D-Wave Systems Inc. <br>“<em>An Introduction to the D-Wave Quantum Annealing Hardware</em>”</td>
-  </tr>
-  <tr>
-    <td>12:15 - 12:35</td>
+    <td>11:15 - 11:35</td>
     <td>:large_blue_circle: Contributed Talk: <b>Marvin Hirschel</b><br>“<em>Superfluid Helium Gravitational wave/Dark Matter Detector</em>”</td>
   </tr>
   <tr>
-    <td>12:35 - 12:55</td>
+    <td>11:35 - 11:55</td>
     <td>:large_blue_circle: Contributed Talk: <b>Pramodh Senarath Yapa</b> <br>“<em>Theory of a 2D Spatially-Modulated Phase in Superfluid Helium-3 under Confinement</em>”</td>
   </tr>
   <tr>
-    <td>12:55 - 13:15</td>
+    <td>11:55 - 12:15</td>
     <td>:large_blue_circle: Contributed Talk: <b>Rishabh</b><br>“<em>Quantum Neuroscience: Radical pair mechanism may explain hypomagnetic field effects on neurogenesis</em>”</td>
+  </tr>
+  <tr>
+    <td>12:15 - 13:15</td>
+    <td>:red_circle: Invited Talk: <b>Hugh Ramp</b>, D-Wave Systems Inc. <br>“<em>An Introduction to the D-Wave Quantum Annealing Hardware</em>”</td>
   </tr>
   <tr>
     <td></td>
