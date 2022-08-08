@@ -370,7 +370,7 @@ Please enter ECHA through one of the main north doors. Take the stairs or elevat
 
 [Here is a floor map](https://drive.google.com/file/d/1Ue836NAYcpQMcsH6iVaPASuLMy2lKh5S/view?usp=sharing), with the hallway and room indicated.
 
-:point_right: Note that portions of ECHA are currently under rennovation. :construction: Please stay clear of these areas.
+Note that portions of ECHA are currently under rennovation. :construction: Please stay clear of these areas.
 
 <br>
 
