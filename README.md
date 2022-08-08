@@ -358,11 +358,10 @@ Participants may hang up their posters in the Lister Centre Aurora Room starting
 ## :computer: Quantum Computing Challenges and Exploration
 The purpose of this event is to provide an an **accessible, interactive, and safe learning environment** where particpants can explore and push themselves in quantum computing topics. It features three (or four) lab challenges using IBM's open-source Qiskit software package and free interactive textbook.
 
-<!---
+
 <p align="center">
 :point_right: <a href="https://github.com/bdsmith147/quanta_qiskit_workshop/blob/main/README.md">Click here for the challenge instructions.</a> :point_left:
 </p>
---->
 
 This event will occur in the Edmonton Clinic Health Academy (ECHA) building a short 5 minute walk from Lister Centre. We will use the computer lab located in room L1-270 (**basement**).
 
