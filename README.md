@@ -65,7 +65,7 @@ The return trip will leave from Lister Centre on Tuesday August 9th at 18:30.
 <br>
 
 # :watch: Schedule
-The syposium will take place over three days from August 7-9, 2022. A PDF of the meeting brochure can be downloaded [here](https://drive.google.com/file/d/1Nc6h9io3vuWGb79PW2iQkGQnONnoXb6p/view?usp=sharing). All times are given in MDT.
+The syposium will take place over three days from August 7-9, 2022. A PDF of the meeting brochure can be downloaded [here](https://drive.google.com/file/d/1lhAaLsKbAZ5YxuB44riIzqpPjZbiwECn/view?usp=sharing). All times are given in MDT.
 
 <details>
 <summary><h2>Day 1: Sunday, Aug. 7th</h2></summary>
